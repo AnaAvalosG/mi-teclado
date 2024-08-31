@@ -1,0 +1,11 @@
+
+.result {
+    border: 2px solid black; 
+    padding: 10px; 
+    background-color: white; 
+    margin-left: 35%;
+    margin-right: 40%;
+    width: 200px; 
+    word-wrap: break-word;
+    overflow-wrap: break-word; 
+  }
